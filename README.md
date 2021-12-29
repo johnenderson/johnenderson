@@ -7,17 +7,17 @@ Meu nome é John, atualmente sou pago para resolver problemas utilizando o Penta
 - 📫 Contato: johnenderson@outlook.com
 - ⚡ Curiosidade: Sou um músico enferrujado.
 
-<!--
+
 <p align="center">
-  <a href="https://github.com/johnenderson?tab=followers">
-    <img src="https://img.shields.io/github/followers/badtuxx?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="mailto:johnenderson@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="http://twitter.com/johnenderson">
-    <img src="https://img.shields.io/twitter/follow/badtux_?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/john-enderson-8139bb2a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-
+<!--
 **badtuxx/badtuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
