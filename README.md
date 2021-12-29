@@ -2,7 +2,7 @@
 
 Meu nome é John, atualmente sou pago para resolver problemas utilizando o Pentaho Data Integration, focado em integrações, automação e muita, mas muita consultoria.
 
-- 🌱 Estou apreendendo GitLab, Pyhton,  Shell Script e Apache Hop.
+- 🌱 Estou apreendendo GitLab, CI/CD, Pyhton, Shell Script e Apache Hop.
 - 👀 Estou sempre atento a coisas relacionadas a Data Integration, AWS Lambda e Apache Hop;
 - 📫 Contato: johnenderson@outlook.com
 - ⚡ Curiosidade: Sou um músico enferrujado.
@@ -15,7 +15,10 @@ Meu nome é John, atualmente sou pago para resolver problemas utilizando o Penta
   <a href="https://www.linkedin.com/in/john-enderson-8139bb2a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+   <a href="https://gitlab.com/johnenderson">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+ </p>
 
 <!--
 **badtuxx/badtuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
