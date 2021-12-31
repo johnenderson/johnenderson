@@ -4,7 +4,7 @@ Meu nome é John, atualmente sou pago para resolver problemas utilizando o Penta
 
 - 🌱 Estou apreendendo GitLab, CI/CD, Pyhton, Shell Script e Apache Hop.
 - 👀 Estou sempre atento a coisas relacionadas a Data Integration, AWS Lambda e Apache Hop;
-- 📫 Contato: johnenderson@outlook.com
+- 📫 Contato: johnenderson@gmail.com
 - ⚡ Curiosidade: Sou um músico enferrujado.
 
 
