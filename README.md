@@ -2,9 +2,10 @@
 
 Meu nome é John, atualmente sou pago para resolver problemas utilizando o Pentaho Data Integration, focado em integrações, automação e muita, mas muita consultoria.
 
-- 🌱 Estou apreendendo GitLab, CI/CD, Python, Shell Script e Apache Hop.
-- 👀 Estou sempre atento a coisas relacionadas a Data Integration, AWS Lambda e Apache Hop;
-- 📫 Contato: johnenderson@gmail.com
+- 🌱 Estou apreendendo Java, Shell Script e Spring Boot;
+- 👀 Estou sempre atento a coisas relacionadas a Data Integration, AWS e Apache Hop;
+- 👨🏻‍💻 Atualmente trabalho na SoftExpert;
+- 📫 Contato: johnenderson@outlook.com;
 - ⚡ Curiosidade: Sou um músico enferrujado.
 
 
