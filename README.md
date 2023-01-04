@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é John, atualmente sou pago para resolver problemas utilizando o Pentaho Data Integration, focado em integrações, automação e muita, mas muita consultoria.
+Meu nome é John, atualmente sou pago para resolver problemas utilizando JAVA.
 
 - 🌱 Estou apreendendo Java, Shell Script e Spring Boot;
 - 👀 Estou sempre atento a coisas relacionadas a Data Integration, AWS e Apache Hop;
