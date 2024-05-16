@@ -1,8 +1,14 @@
 <h1 align="left">About me</h1>
 
-###
+<p align="center">
+  💚 Java Developer • 👨‍💻 Currently working at SoftExpert • ⚡ Fun fact: I'm a rusty musician. • 🤓 Maybe a DevOps nerd?
+</p>
 
-<p align="left">Meu nome é John, atualmente sou pago para resolver problemas utilizando JAVA.<br><br>- 🌱 Java Developer<br>- 👨🏻‍💻 Atualmente trabalho na SoftExpert;<br>- 📫 Contato: johnenderson@outlook.com;<br>- ⚡ Curiosidade: Sou um músico enferrujado.</p>
+---
+
+Hello! 👋
+
+My name is John, and I'm currently paid to solve problems, primarily using Java, but also utilizing other skills.
 
 ###
 
