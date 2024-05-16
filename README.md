@@ -1,5 +1,3 @@
-<h1 align="left">About me</h1>
-
 <p align="center">
   💚 Java Developer • 👨‍💻 Currently working at SoftExpert • ⚡ Fun fact: I'm a rusty musician. • 🤓 Maybe a DevOps nerd?
 </p>
