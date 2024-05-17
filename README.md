@@ -1,5 +1,5 @@
 <p align="center">
-  💚 Java Developer • 👨‍💻 Currently working at [SoftExpert](https://www.softexpert.com/) • ⚡ Fun fact: I'm a rusty musician. • 🤓 Maybe a DevOps nerd?
+  💚 Java Developer • 👨‍💻 Currently working at <a href="https://www.softexpert.com/">SoftExpert</a> • ⚡ Fun fact: I'm a rusty musician. • 🤓 Maybe a DevOps nerd?
 </p>
 
 ---
